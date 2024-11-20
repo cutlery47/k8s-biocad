@@ -9,6 +9,7 @@ biocad test task
 
 ## Ход выполнения работы
 1) Создадим простенький http-сервер на Go
-![screenshot](https://github.com/cutlery47/k8s-biocad/master/tree/media/prog.png)
+![screenshot](https://github.com/cutlery47/k8s-biocad/tree/master/media/prog.png)
+
 
 
